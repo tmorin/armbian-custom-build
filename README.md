@@ -1,1 +1,1 @@
-# armbian-cutom-build
+# armbian-custom-build
